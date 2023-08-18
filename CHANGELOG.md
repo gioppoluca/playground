@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v0.0.2](https://github.com/gioppoluca/playground/releases/tag/v0.0.2) - 2023-08-18 13:21:04
+
+*No description*
+
 ## [v0.0.1](https://github.com/gioppoluca/playground/releases/tag/v0.0.1) - 2023-08-18 13:13:22
 
 **Full Changelog**: https://github.com/gioppoluca/playground/commits/v0.0.1
